@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/gallery.rpy", line 69: Line is indented, but the preceding textbutton statement does not expect a block. Please check this line's indentation.
+    xpos 60
+    ^
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Wed Jul  6 00:57:08 2022
